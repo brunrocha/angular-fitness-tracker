@@ -12,7 +12,8 @@ import {
     MatListModule,
     MatTabsModule,
     MatCardModule,
-    MatSelectModule
+    MatSelectModule,
+    MatProgressSpinnerModule
 } from '@angular/material';
 
 
@@ -30,7 +31,8 @@ import {
         MatListModule,
         MatTabsModule,
         MatCardModule,
-        MatSelectModule
+        MatSelectModule,
+        MatProgressSpinnerModule
     ],
     exports: [
         MatIconModule,
@@ -45,7 +47,8 @@ import {
         MatListModule,
         MatTabsModule,
         MatCardModule,
-        MatSelectModule
+        MatSelectModule,
+        MatProgressSpinnerModule
     ]
 })
 export class MaterialModule { }
