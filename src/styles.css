@@ -9,13 +9,3 @@ html, body {
 body {
     margin: 0;
 }
-
-a {
-    text-decoration: none;
-    color: white;
-}
-
-a:hover,
-a:active {
-    color: lightgray;
-}
