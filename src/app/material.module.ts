@@ -14,7 +14,8 @@ import {
     MatCardModule,
     MatSelectModule,
     MatProgressSpinnerModule,
-    MatDialogModule
+    MatDialogModule,
+    MatTableModule
 } from '@angular/material';
 
 
@@ -34,7 +35,8 @@ import {
         MatCardModule,
         MatSelectModule,
         MatProgressSpinnerModule,
-        MatDialogModule
+        MatDialogModule,
+        MatTableModule
     ],
     exports: [
         MatIconModule,
@@ -51,7 +53,8 @@ import {
         MatCardModule,
         MatSelectModule,
         MatProgressSpinnerModule,
-        MatDialogModule
+        MatDialogModule,
+        MatTableModule
     ]
 })
 export class MaterialModule { }
